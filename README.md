@@ -7,9 +7,9 @@
 
 
 <H3>Prerequisite:</H3>
-- Download or clone this repository
-- Python verison 3.6 installed
-- Zoom installed
+- Download or clone this repository<br>
+- Python verison 3.6 installed<br>
+- Zoom installed<br>
 - Access to administrative password (Mac & linux sudo)
 
 
