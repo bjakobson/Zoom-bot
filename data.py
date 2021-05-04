@@ -30,37 +30,42 @@
 #11 p.m. = 23:00
 
 Monlst = [
-    ["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:15"],
+    ["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:25"],
     ["https://zoom.us/j/8016003997%20", "9:10", "9:25"],
     ["https://zoom.us/j/97093628890", "10:05", "10:05"],
     ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "11:00", "11:25"],
     ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "12:31", "12:45"],
-    ["https://zoom.us/j/98893177957", "14:13", "14:35"]
+    ["https://zoom.us/j/98893177957", "13:13", "13:35"]
 ]
 
 Tuelst = [
-#["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:15"],
-#   ["https://zoom.us/j/8016003997%20", "9:10", "9:25"],
-# ["https://zoom.us/j/97093628890", "10:05", "10:05"],
-   # ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "11:00", "11:25"],
-   # ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "12:32", "12:45"],
+    ["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:25"],
+    ["https://zoom.us/j/8016003997%20", "9:10", "9:25"],
+    ["https://zoom.us/j/97093628890", "10:05", "10:05"],
+    ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "11:00", "11:25"],
+    ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "12:31", "12:45"],
     ["https://zoom.us/j/98893177957", "13:13", "13:35"]
 ]
 
 Wedlst = [
-    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
-    ["link2", "2:31", "3:00"],
-    ["link3", "3:01", "3:30"]
+    ["https://zoom.us/j/95806046947", "9:40", "9:48"],
 ]
 
 Thurlst = [
-    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
-    ["link2", "2:31", "3:00"],
-    ["link3", "3:01", "3:30"]
+    ["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:25"],
+    ["https://zoom.us/j/97093628890", "9:50", "9:51"],
+    ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "11:47", "12:00"],
+    ["https://zoom.us/j/98893177957", "13:22", "13:45"]
 ]
 
 Frilst = [
-    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
-    ["link2", "2:31", "3:00"],
-    ["link3", "3:01", "3:30"]
+    ["https://zoom.us/j/8016003997%20", "8:12", "8:25"],
+    ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "9:49", "10:00"],
+    ["https://zoom.us/j/98893177957", "11:48", "12:00"]
+]
+
+Testlst = [
+    ["https://us05web.zoom.us/j/82520975728?pwd=SlZjdWxFeXNzc2FMeDY5WW5mM1J1dz09", "14:47", "14:48"],
+    ["https://us05web.zoom.us/j/82520975728?pwd=SlZjdWxFeXNzc2FMeDY5WW5mM1J1dz09", "14:49", "14:50"]
+
 ]
