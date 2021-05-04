@@ -1,9 +1,9 @@
 # Zoom-bot
 <H2>Features</H2>
- - Joins Zoom
- - Automatically mutes mic and turns off cam
- - Leaves Zoom
- - Repeats process per class
+ 1) Joins Zoom
+ 2) Automatically mutes mic and turns off cam
+ 3) Leaves Zoom
+ 4) Repeats process per class
 
 
 <H3>Prerequisite:</H3>
