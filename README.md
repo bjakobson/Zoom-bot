@@ -1,10 +1,10 @@
 # Zoom-bot
 
-Prerequisite:
+<H1>Prerequisite:</H1>
 
--Python verison 3.6 installed
--Zoom installed
--Access to administrative password (Mac & linux sudo)
+- Python verison 3.6 installed
+- Zoom installed
+- Access to administrative password (Mac & linux sudo)
 
 
 Installations: 
