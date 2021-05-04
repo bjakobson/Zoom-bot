@@ -28,7 +28,7 @@
   - For windows, open `main.py` in any editor and change line 27, `bjakob` to your username
 
 <h3>To run:</h3>
-  - go into your terminal and paste `python3 main.py`
+  - go into your terminal and paste ```python3 main.py```
 
 
 <br><br>
