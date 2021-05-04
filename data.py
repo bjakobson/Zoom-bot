@@ -1,0 +1,66 @@
+#Built by Brandon Jakobson, all rights reserved 5/3/21.
+
+
+#link, start time, end time
+#time (hour:minute)
+#MUST BE 24HOUR TIME:
+#12 a.m. = 0:00
+#1 a.m. = 1:00
+#2 a.m. = 2:00
+#3 a.m. = 3:00
+#4 a.m. = 4:00
+#5 a.m. = 5:00
+#6 a.m. = 6:00
+#7 a.m. = 7:00
+#8 a.m. =  8:00
+#9 a.m. =  9:00
+#10 a.m. =  10:00
+#11 a.m. =  11:00
+#12 p.m. =  12:00
+#1 p.m. =  13:00
+#2 p.m. =  14:00
+#3 p.m. = 15:00
+#4 p.m. =  16:00
+#5 p.m. = 17:00
+#6 p.m. = 18:00
+#7 p.m. =  19:00
+#8 p.m. =  20:00
+#9 p.m. = 21:00
+#10 p.m. = 22:00
+#11 p.m. = 23:00
+
+Monlst = [
+    ["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:15"],
+    ["https://zoom.us/j/8016003997%20", "9:10", "9:25"],
+    ["https://zoom.us/j/97093628890", "10:05", "10:05"],
+    ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "11:00", "11:25"],
+    ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "12:31", "12:45"],
+    ["https://zoom.us/j/98893177957", "14:13", "14:35"]
+]
+
+Tuelst = [
+#["https://issaquah-wednet-edu.zoom.us/j/3968502123", "8:11", "8:15"],
+#   ["https://zoom.us/j/8016003997%20", "9:10", "9:25"],
+# ["https://zoom.us/j/97093628890", "10:05", "10:05"],
+   # ["https://issaquah-wednet-edu.zoom.us/j/95425829202", "11:00", "11:25"],
+   # ["https://issaquah-wednet-edu.zoom.us/j/3666097873", "12:32", "12:45"],
+    ["https://zoom.us/j/98893177957", "13:13", "13:35"]
+]
+
+Wedlst = [
+    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
+    ["link2", "2:31", "3:00"],
+    ["link3", "3:01", "3:30"]
+]
+
+Thurlst = [
+    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
+    ["link2", "2:31", "3:00"],
+    ["link3", "3:01", "3:30"]
+]
+
+Frilst = [
+    ["https://github.com/supersu-man/ZoomAutoLogin/blob/main/data.py", "20:29", "2:30"],
+    ["link2", "2:31", "3:00"],
+    ["link3", "3:01", "3:30"]
+]
