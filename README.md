@@ -7,7 +7,7 @@
 
 
 <H3>Prerequisite:</H3>
-
+- Download or clone this repository
 - Python verison 3.6 installed
 - Zoom installed
 - Access to administrative password (Mac & linux sudo)
@@ -21,14 +21,14 @@
  - `python -m pip install datetime pynput data pyautogui`
   
 <h3>To change data:</h3>
-  - Open `data.py` in any editor
-  - Follow the template: *URL, Time to join, Time to leave*
-  - TIMES MUST BE 24HR TIME
-  - Each list is for each day, Monlst - Monday, Tuelst - Tuesday, etc.
-  - For windows, open `main.py` in any editor and change line 27, `bjakob` to your username
+  - Open `data.py` in any editor<br>
+  - Follow the template: *URL, Time to join, Time to leave*<br>
+  - TIMES MUST BE 24HR TIME<br>
+  - Each list is for each day, Monlst - Monday, Tuelst - Tuesday, etc.<br>
+  - For windows, open `main.py` in any editor and change line 27, `bjakob` to your username<br>
 
 <h3>To run:</h3>
-  - go into your terminal and paste ```python3 main.py```
+  - go into your terminal and type `python3 main.py`
 
 
 <br><br>
