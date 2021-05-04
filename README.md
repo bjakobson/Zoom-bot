@@ -29,5 +29,7 @@
 
 <h3>To run:</h3>
   - go into your terminal and paste `python3 main.py`
-<br>
+
+
+<br><br>
 Enjoy that extra sleep and let this bot join your Zoom calls for you. This bot will not do anything besides join calls and turn off mic and cam, meaning it will   not be activley taking notes, cannot respond if you are called on, and will not give any reactions or type in chat. Use at your own risk of getting called on.
