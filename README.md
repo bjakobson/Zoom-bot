@@ -10,8 +10,8 @@ Prerequisite:
 Installations: 
 
  Mac & Linux:
- - `sudo pip3 install datetime pynput data pyautogui`<br>
- Windows: 
+ - `sudo pip3 install datetime pynput data pyautogui`
+<br>Windows: 
  - `python -m pip install datetime pynput data pyautogui`
   
 To change data:
